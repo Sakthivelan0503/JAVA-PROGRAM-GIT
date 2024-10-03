@@ -17,4 +17,4 @@ class dice
         System.out.print(count);
 
     }
-}
+} 

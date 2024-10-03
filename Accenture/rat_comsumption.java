@@ -33,7 +33,7 @@ public class rat_comsumption {
             else{
                 System.out.print(i);
             break;
-        }
-    }
-}
+            }   
+        }
+    }
 }
